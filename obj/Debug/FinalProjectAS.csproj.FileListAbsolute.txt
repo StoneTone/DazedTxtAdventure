@@ -1,0 +1,16 @@
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\bin\Debug\FinalProjectAS.exe.config
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\bin\Debug\FinalProjectAS.exe
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\bin\Debug\FinalProjectAS.pdb
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.csproj.AssemblyReference.cache
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.titleForm.resources
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.Properties.Resources.resources
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.csproj.GenerateResource.cache
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.csproj.CoreCompileInputs.cache
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.exe
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.pdb
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.descriptionForm.resources
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.worldBuild.resources
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\bin\Debug\items.mdf
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\bin\Debug\items_log.ldf
+C:\Users\Antonio-PC\Documents\School\.NET II\FinalProjectAS\obj\Debug\FinalProjectAS.Inventory.resources
